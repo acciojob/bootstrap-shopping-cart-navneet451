@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+ .block-heading {
+            text-align: center;
+            color: #3b99e0;
+        }
+
+        .summary {
+            background-color: #f7fbff;
+            border-top: 2px solid #5ea4f3;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .summary .btn {
+            background-color: #3b99e0;
+            border-color: #3b99e0;
+            color: white;
+            width: 100%;
+        }
+
+        .summary .border-bottom {
+            border-bottom: 1px solid #5ea4f3;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+
+        .product {
+            margin-bottom: 20px;
+        }
+
+        .product img {
+            max-height: 150px;
+        }
